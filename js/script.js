@@ -47,4 +47,4 @@ $(document).ready(function(){
       $("#knopka3").css("display","none");
    });
 
-});           
+});     

@@ -48,3 +48,31 @@ $(document).ready(function(){
    });
 
 });     
+ $(document).ready(function(){
+      $('.bxslider').bxSlider();
+    });
+
+
+
+
+  
+  $('.bxSlider').bxSlider({
+  auto: true,
+  autoControls: true,
+  stopAutoOnClick: true,
+  pager: true,
+  slideWidth: 750,
+  
+});
+
+
+
+
+function Hello(){
+
+  alert('Дороу')
+}
+
+
+
+

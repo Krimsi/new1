@@ -1,6 +1,6 @@
-﻿stena{
+﻿.stena{
 margin: 0;	
-width: 100%;
+width: 1920px;
 height: 1070px;
 position: absolute;
 background-color: #e0e2e5;
@@ -12,7 +12,7 @@ background-color: #e0e2e5;
 
 .head{
 margin: 0;
-width: 100%;
+width: 1920px;
 height: 200px;
 position: absolute;
 background-color: black;
@@ -103,3 +103,27 @@ border: 1.5px solid black;
   font-size: 20px;
 } 
 .button1:active { background: white; }
+
+.Niz {
+width: 1920px;
+height: 100px;
+background-color: black;
+bottom: -105px;
+position:absolute;
+clear: left;
+}
+
+.q123{
+
+ margin-top:  700px;
+ margin-left: 200px;
+width: 190x;
+height: 200px;
+position: absolute;
+background-color: red;
+
+
+
+
+
+}

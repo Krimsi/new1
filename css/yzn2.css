@@ -1,6 +1,6 @@
-﻿stena{
+﻿.stena{
 margin: 0;	
-width: 100%;
+width: 1920px;
 height: 1070px;
 position: absolute;
 background-color: #e0e2e5;
@@ -12,7 +12,7 @@ background-color: #e0e2e5;
 
 .head{
 margin: 0;
-width: 100%;
+width: 1920px;
 height: 200px;
 position: absolute;
 background-color: black;
@@ -151,4 +151,31 @@ background-color:red;
 width:60px;
 height:60px;
 background-color:blue;
+}
+
+.Niz {
+width: 1920px;
+height: 100px;
+background-color: black;
+bottom: -205px;
+position:absolute;
+clear: left;
+}
+
+.BLOK {
+margin-left:860px;
+margin-top: 280px;
+
+
+}
+
+.bxSlider{
+  width:700px;
+  height:700px;
+
+}
+.dron {
+height: 500px;
+width:  750px;
+border:2px solid black;
 }

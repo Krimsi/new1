@@ -157,13 +157,13 @@ border-radius: 0 20px;
 
 font-family: 'Permanent Marker', cursive;
 }
-.kp{
 
- 
 
-    margin-left: 245px;
-    margin-top: 0px;
-position: absolute;
-border: 1.5px solid black;
-box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+.Niz {
+width: 1920px;
+height: 100px;
+background-color: black;
+bottom: -105px;
+position:absolute;
+clear: left;
 }

@@ -3,13 +3,7 @@ $("q1").css("fontSize","33px");
 $("q2").css("fontSize","28px");
 console.log('sdfgsdg');
 
-$("q1").add("h1").css("background-color","#db7093");
-$("#knopka2").click(function(){
-      $("#numb").text(function(i,numb){
-         return parseInt(numb)+1;
-      });
 
-}); 
 
 
 $(document).ready(function(){
@@ -68,11 +62,10 @@ $(document).ready(function(){
 
 
 
-function Hello(){
+$('.q123').dblclick(function(){
+  alert('ВЫ ПОКУШАЛИ АЛИВЬЕ');
+});
 
-  alert('Дороу')
-}
-
-
-
-
+$('.q123').dblclick(function(){
+  alert('ВЫ ПОКУШАЛИ АЛИВЬЕ');
+});

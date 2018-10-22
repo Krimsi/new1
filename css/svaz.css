@@ -198,3 +198,14 @@ margin-top: -600px;
 margin-left:0px;
 position: fixed;
 }
+
+.Niz {
+width: 1920px;
+height: 100px;
+background-color: black;
+bottom: -105px;
+position:absolute;
+clear: left;
+}
+
+

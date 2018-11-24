@@ -121,9 +121,14 @@ width: 190x;
 height: 200px;
 position: absolute;
 background-color: red;
-
-
-
-
-
 }
+  #msg { 
+    display: none;
+    position: absolute;
+    width: 280px;
+    top: 200px;
+    left: 50%;
+    margin-left: -150px; 
+    background: #fc0;
+    padding: 10px
+    }

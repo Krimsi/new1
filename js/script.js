@@ -69,3 +69,11 @@ $('.q123').dblclick(function(){
 $('.q123').dblclick(function(){
   alert('ВЫ ПОКУШАЛИ АЛИВЬЕ');
 });
+
+   function textMsg(msg) {
+    document.getElementById('text').innerHTML = msg;
+    document.getElementById('msg').style.display = 'block';
+   }
+   function closeMsg() {
+    document.getElementById('msg').style.display = 'none';
+   }
